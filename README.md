@@ -2,7 +2,7 @@
 
 Checks accounts purchased from [Nikepreorders](http://shop.nikepreorders.com) to see which are still Nike+ verified.
 
-*Requires Python 2.7 and [Chromedriver](http://sites.google.com/a/chromium.org/chromedriver/downloads)
+*Requires Python 2.7 [Selenium](http://pypi.python.org/pypi/selenium) and [Chromedriver](http://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 ### Setup
 
