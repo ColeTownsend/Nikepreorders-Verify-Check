@@ -10,4 +10,4 @@ Edit config.py to your liking then run main.py
 
 ### Tip
 
-When submitting a replacement request I recommend copying the results from the log text file to [pastebin](htts://pastebin.com) then submitting that link in the replacement request form
+When submitting a replacement request I recommend copying the results from the log text file to [Pastebin](https://pastebin.com) then submitting that link in the replacement request form
