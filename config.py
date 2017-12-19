@@ -1,4 +1,3 @@
-CHROMEDRIVER = 'C:\Python27\SublimeText\chromedriver_win32\chromedriver' #Chromedriver path
 VERIFIED_ACCOUNTS = 'Verified Accounts.txt' #Text file where accounts are located
 FROM_BNB = 'y' #Specifies whether or not VERIFIED_ACCOUNTS is an exported text file from BNB...change y to n and VERIFIED_ACCOUNTS will be treated as the format of the text file received from Nikepreorders
 PASSWORD = '' #Password for accounts
