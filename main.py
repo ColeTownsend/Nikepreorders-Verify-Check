@@ -18,6 +18,8 @@ def verify_check():
   i = 0
   log = ''
   accounts = ''
+  emails = [email for email in emails if email != '']
+  print 'Checking {} accounts...'.format(str(len(emails)))
   for EMAIL in emails:
     session = requests.Session()
     headers = {
